@@ -1,25 +1,24 @@
 {
-  "name": "x-pages",
+  "name": "ytxd-cli",
   "version": "1.0.0",
   "description": "A static site development workflow",
   "keywords": [
     "pages-tasks",
-    "x-pages",
+    "ytxd-cli",
     "cli",
-    "zce"
+    "wllgogogo"
   ],
-  "homepage": "https://github.com/zce/x-pages#readme",
+  "homepage": "https://github.com/wllgogogo/ytxd-cli#readme",
   "bugs": {
-    "url": "https://github.com/zce/x-pages/issues"
+    "url": "https://github.com/wllgogogo/ytxd-cli/issues"
   },
   "license": "MIT",
   "author": {
-    "name": "zce",
-    "email": "w@zce.me",
-    "url": "https://zce.me"
+    "name": "wllgogogo",
+    "email": "w@wllgogogo.me"
   },
   "main": "lib/index.js",
-  "bin": "bin/x-pages.js",
+  "bin": "bin/ytxd-cli.js",
   "scripts": {
     "format": "prettier --write \"**/*.js\"",
     "lint": "standard",
@@ -58,7 +57,7 @@
   },
   "renovate": {
     "extends": [
-      "zce"
+      "wllgogogo"
     ]
   },
   "dependencies": {
