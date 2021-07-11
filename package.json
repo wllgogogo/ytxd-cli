@@ -17,8 +17,12 @@
     "name": "wllgogogo",
     "email": "w@wllgogogo.me"
   },
+  "files": ["lib", "bin"],
   "main": "lib/index.js",
   "bin": "bin/ytxd-cli.js",
+  "directories": {
+    "lib": "lib"
+  },
   "scripts": {
     "format": "prettier --write \"**/*.js\"",
     "lint": "standard",
